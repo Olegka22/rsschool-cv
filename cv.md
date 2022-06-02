@@ -20,3 +20,6 @@
    + Economist manager
   ##### LANGUAGE SKILLS
    + Belarusian - Native
+   + English - A1 - Basic
+   + Russian – C2 – Perfectly
+   + Czech - A2 - Elementary 
